@@ -1,4 +1,4 @@
-algorithms
+Algorithms
 ==========
 
-Python, Java, C++ implementations of the works of the "Intro to Algorithms" by Cormen, Leiserson, Rivest, &amp; Stein
+Implementation of the works of "Intro to Algorithms" by Cormen, Leiserson, Rivest, &amp; Stein
